@@ -1,0 +1,38 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    padding: 20px;
+    background-color: Darkred;
+    text-align: center;
+
+
+ }
+h1 {
+    color: grey
+
+}
+
+p {
+    color: blue;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.highlight {
+    font-size: 20px;
+    color:green;
+    font-weight: bold;
+    background-color: yellow;
+    padding: 10px;
+    border-radius:8px;
+
+}
+
+.highlight {
+    background-color:aquamarine
+}
+
+#unique {
+    text-decoration: line-through;
+    padding: 15px;
+    border: 3px dashed;
+
+}
